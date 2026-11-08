@@ -1,5 +1,7 @@
 # linkedin-mcp-trade-show-pipeline
 
+> **Part of the [AI SDR Kit](https://github.com/zevarihq/ai-sdr-kit), the open-source AI SDR harness.** Install the kit to give your agent the whole outbound playbook (setup SOP and every LinkedIn and email sequence), then run this play on top of it.
+
 A 3-phase Claude Code prompt for running the entire trade show / conference booth pipeline for a B2B vendor — pre-show outreach to the attendee list, on-site booth-scan capture + live lead routing, and post-show tiered follow-up.
 
 Sharing this because every "event lead capture" tool I've evaluated handles the pipes — badge in, CRM out, generic "thanks for visiting" email — and none of them know the badge title was wrong before the attendee even walked up to the booth.
